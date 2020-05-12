@@ -1,5 +1,6 @@
 # Notion-Icons-2.0
 Create a more vibrant and modern workspace.
+Use **Github Issues** to request more Icons.
 ![alt text](/9998.jpg "Notion Icons 2.0")
 
 
@@ -9,5 +10,3 @@ These are the **updated** version of my last Icon pack. And as always it will ma
 ![alt text](/9998-1.jpg "Notion Icons 2.0")
 And guys it also supports Notion **dark mode**. **Follow my social media for updates.**
 You can download this icon pack by cloning it.
-
-Use **Github Issues** to request more Icons.
