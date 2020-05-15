@@ -17,6 +17,10 @@ And guys it also supports Notion **dark mode**. **Follow my social media for upd
 
 ![alt text](/9998-1.jpg "Notion Icons 2.0")
 
+## **Month**
+
+![alt text](/U1.png "Notion Icons 2.0")
+
 # **Request Icons**
 You can download this icon pack by cloning it.
 Use **Github Issues** to request more Icons.
