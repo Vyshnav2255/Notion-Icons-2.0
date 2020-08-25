@@ -1,6 +1,6 @@
 # Notion Icons 2.0
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![GitHub stars](https://img.shields.io/github/stars/vyshnav2255/Notion-Icons-2.0?style=social) ![I](https://img.shields.io/badge/Icons-85-brighgreen)
+![GitHub stars](https://img.shields.io/github/stars/vyshnav2255/Notion-Icons-2.0?style=social) ![I](https://img.shields.io/badge/Icons-90-brighgreen)
 
 
 Create a more vibrant and modern workspace.
