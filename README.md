@@ -25,6 +25,9 @@ And guys it also supports Notion **dark mode**. **Follow my social media for upd
 You can download this icon pack by cloning it.
 Use **Github Issues** to request more Icons.
 
+# **Support**
+Support this project by clicking the sponsor button and get featured on this page.
+
 # **Links**
 [![Twitter Follow](https://img.shields.io/twitter/follow/_vyshnav_?style=for-the-badge&logo=twitter&color=1da1f2)](https://www.twitter.com/_vyshnav_)
 
