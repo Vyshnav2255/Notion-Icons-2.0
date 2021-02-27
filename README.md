@@ -30,7 +30,7 @@ Use **Github Issues** to request more Icons.
 Support this project by clicking the sponsor button and get featured on this page.
 
 # **Links**
-[![Twitter Follow](https://img.shields.io/twitter/follow/_vyshnav_?style=for-the-badge&logo=twitter&color=1da1f2)](https://www.twitter.com/_vyshnav_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_vyshnav_?style=for-the-badge&logo=twitter&color=1da1f2)](https://www.twitter.com/ThisIsVyshnav)
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://vyshnav.xyz)
